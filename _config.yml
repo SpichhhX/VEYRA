@@ -1,7 +1,7 @@
 title: VEYRA
-description: "VEYRA: practical notes on websites, SEO, and learning by building."
-url: "https://SpichhhX.github.io"
-baseurl: "/seo-practice"
+description: "Music production DAW guides, special features and official purchase links."
+url: "https://spichhhx.github.io"
+baseurl: "/VEYRA"
 lang: en
 plugins:
   - jekyll-seo-tag
