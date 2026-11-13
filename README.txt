@@ -1,10 +1,10 @@
-FREE SEO PRACTICE WEBSITE — GitHub Pages + Jekyll
+VEYRA WEBSITE — GitHub Pages + Jekyll
 
 1. Create a PUBLIC GitHub repository named seo-practice.
 2. Extract this ZIP and upload the CONTENTS of seo-practice into the repository root. _config.yml and index.md must be at the root, not inside an extra folder.
-3. Edit _config.yml: replace YOUR_USERNAME with your GitHub username. Keep baseurl: "/seo-practice" if that is your repository name. If you choose another repository name, update baseurl too.
+3. Edit _config.yml: replace SpichhhX with your GitHub username. Keep baseurl: "/seo-practice" if that is your repository name. If you choose another repository name, update baseurl too.
 4. Open Settings > Pages > Build and deployment. Choose Deploy from a branch, then main and /(root), and Save. Your default branch may have another name; select the branch holding these files.
-5. After the GitHub Pages build succeeds, visit https://YOUR_USERNAME.github.io/seo-practice/ . Check both pages, view page source for title/description/canonical, and open /seo-practice/sitemap.xml and /seo-practice/robots.txt.
+5. After the GitHub Pages build succeeds, visit https://SpichhhX.github.io/seo-practice/ . Check both pages, view page source for title/description/canonical, and open /seo-practice/sitemap.xml and /seo-practice/robots.txt.
 6. Edit the site title, description, and page content to match your real learning topic. Add original examples before expecting meaningful search traffic.
 
 Plugins already configured:
@@ -14,7 +14,7 @@ Do NOT add .nojekyll: this project needs Jekyll processing.
 No database, npm, paid hosting, or paid domain is required.
 
 GOOGLE SEARCH CONSOLE
-Add a URL-prefix property for https://YOUR_USERNAME.github.io/seo-practice/ . Choose HTML file verification, upload Google's exact verification file to the repository root, wait for deployment, then click Verify. Keep the verification file afterwards. Submit the full URL https://YOUR_USERNAME.github.io/seo-practice/sitemap.xml and inspect the homepage URL. Indexing and ranking are not guaranteed.
+Add a URL-prefix property for https://SpichhhX.github.io/seo-practice/ . Choose HTML file verification, upload Google's exact verification file to the repository root, wait for deployment, then click Verify. Keep the verification file afterwards. Submit the full URL https://SpichhhX.github.io/seo-practice/sitemap.xml and inspect the homepage URL. Indexing and ranking are not guaranteed.
 
 LEARNING EXERCISES
 - Choose one real topic; write a useful page answering a specific question.

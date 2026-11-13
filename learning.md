@@ -1,12 +1,12 @@
 ---
 layout: default
-title: My website and SEO learning journal
-description: A practical checklist for publishing my first static website and learning the basics of SEO.
+title: VEYRA Journal
+description: The VEYRA practical checklist for publishing my first static website and learning the basics of SEO.
 permalink: /learning/
 ---
 <p class="eyebrow">THE LEARNING JOURNAL</p>
 
-# My website and SEO learning journal
+# VEYRA Journal
 
 ## 1. Publish a working website
 

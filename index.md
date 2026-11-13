@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Learning websites, one page at a time
-description: A personal practice website for learning static websites, useful writing, and search engine optimization.
+title: VEYRA — Learning, one page at a time
+description: VEYRA is a personal practice website for learning static websites, useful writing, and search engine optimization.
 ---
 <p class="eyebrow">BUILD · WRITE · LEARN</p>
 
-# Learning websites, one page at a time
+# VEYRA — Learning, one page at a time
 
 This is my space for practicing simple websites and documenting what I learn about SEO. No database, no complicated setup — just useful pages.
 
-[Read my learning journal]({{ '/learning/' | relative_url }})
+[Read the VEYRA Journal]({{ '/learning/' | relative_url }})
 
 ## What I am practicing
 
