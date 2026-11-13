@@ -1,0 +1,10 @@
+title: My Learning Notes
+description: Practical notes from my journey learning websites and SEO.
+url: "https://SpichhhX.github.io"
+baseurl: "/seo-practice"
+lang: en
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - README.txt
